@@ -1,0 +1,17 @@
+{
+  "nama": "Yudi Setiawan",
+  "hobi": [
+    "menulis",
+    "membaca",
+    "bersepeda"
+  ],
+  "usia": 23,
+  "orang_tua": {
+    "ibu": {
+      "nama": "Rosmaini"
+    },
+    "ayah": {
+      "nama": "Mardi"
+    }
+  }
+}
